@@ -77,7 +77,8 @@ export default {
         let formatted_classes = [
             {
                 "id": "none",
-                "name": "-"
+                "name": "-",
+                "gender_lock": 0
             },
             ...classes
         ]
