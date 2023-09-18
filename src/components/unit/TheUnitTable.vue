@@ -314,7 +314,9 @@ export default {
                 if (cla.remark == "mozu" && include_mozu)
                     return true
 
-                return !cla.prf
+                let gender_check = pUnit.gender != 0 ? [0, pUnit.gender].includes(cla.gender_lock) : true
+
+                return !cla.prf && gender_check
             })
 
             return filtered_classes
