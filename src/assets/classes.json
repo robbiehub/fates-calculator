@@ -1,0 +1,3064 @@
+[
+    {
+        "id": "nohr_prince",
+        "name": "Nohr Prince / Nohr Princess",
+        "tier": 1,
+        "prf": true,
+        "remark": "avatar",
+        "growth_rates": {
+            "hp": 15,
+            "str": 15,
+            "mag": 10,
+            "skl": 10,
+            "spd": 10,
+            "lck": 10,
+            "def": 10,
+            "res": 5
+        },
+        "max_stats": {
+            "hp": 40,
+            "str": 23,
+            "mag": 17,
+            "skl": 19,
+            "spd": 21,
+            "lck": 22,
+            "def": 21,
+            "res": 19
+        },
+        "weapons": [
+            {
+                "type": "sword",
+                "value": "B"
+            },
+            {
+                "type": "stone",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 17,
+            "str": 7,
+            "mag": 3,
+            "skl": 4,
+            "spd": 5,
+            "lck": 2,
+            "def": 5,
+            "res": 2,
+            "move": 5
+        },
+        "bonus": null
+    },
+    {
+        "id": "nohr_noble",
+        "name": "Nohr Noble",
+        "tier": 2,
+        "prf": true,
+        "remark": "avatar",
+        "growth_rates": {
+            "hp": 15,
+            "str": 10,
+            "mag": 15,
+            "skl": 5,
+            "spd": 15,
+            "lck": 5,
+            "def": 5,
+            "res": 15
+        },
+        "max_stats": {
+            "hp": 60,
+            "str": 32,
+            "mag": 31,
+            "skl": 28,
+            "spd": 32,
+            "lck": 27,
+            "def": 29,
+            "res": 32
+        },
+        "weapons": [
+            {
+                "type": "sword",
+                "value": "A"
+            },
+            {
+                "type": "tome",
+                "value": "B"
+            },
+            {
+                "type": "stone",
+                "value": "A"
+            }
+        ],
+        "base_stats": {
+            "hp": 18,
+            "str": 8,
+            "mag": 6,
+            "skl": 4,
+            "spd": 7,
+            "lck": 2,
+            "def": 6,
+            "res": 6,
+            "move": 6
+        },
+        "bonus": null
+    },
+    {
+        "id": "hoshido_noble",
+        "name": "Hoshido Noble",
+        "tier": 2,
+        "prf": true,
+        "remark": "avatar",
+        "growth_rates": {
+            "hp": 15,
+            "str": 15,
+            "mag": 10,
+            "skl": 10,
+            "spd": 10,
+            "lck": 10,
+            "def": 15,
+            "res": 0
+        },
+        "max_stats": {
+            "hp": 60,
+            "str": 34,
+            "mag": 28,
+            "skl": 29,
+            "spd": 30,
+            "lck": 33,
+            "def": 31,
+            "res": 28
+        },
+        "weapons": [
+            {
+                "type": "sword",
+                "value": "A"
+            },
+            {
+                "type": "staff",
+                "value": "B"
+            },
+            {
+                "type": "stone",
+                "value": "A"
+            }
+        ],
+        "base_stats": {
+            "hp": 19,
+            "str": 10,
+            "mag": 4,
+            "skl": 5,
+            "spd": 6,
+            "lck": 4,
+            "def": 7,
+            "res": 3,
+            "move": 6
+        },
+        "bonus": null
+    },
+    {
+        "id": "cavalier",
+        "name": "Cavalier",
+        "tier": 1,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 10,
+            "str": 15,
+            "mag": 0,
+            "skl": 10,
+            "spd": 10,
+            "lck": 15,
+            "def": 10,
+            "res": 5
+        },
+        "max_stats": {
+            "hp": 40,
+            "str": 22,
+            "mag": 15,
+            "skl": 21,
+            "spd": 20,
+            "lck": 24,
+            "def": 22,
+            "res": 21
+        },
+        "weapons": [
+            {
+                "type": "sword",
+                "value": "B"
+            },
+            {
+                "type": "lance",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 17,
+            "str": 6,
+            "mag": 0,
+            "skl": 5,
+            "spd": 5,
+            "lck": 3,
+            "def": 5,
+            "res": 3,
+            "move": 7
+        },
+        "bonus": null
+    },
+    {
+        "id": "paladin",
+        "name": "Paladin",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 10,
+            "str": 15,
+            "mag": 0,
+            "skl": 10,
+            "spd": 10,
+            "lck": 15,
+            "def": 10,
+            "res": 10
+        },
+        "max_stats": {
+            "hp": 60,
+            "str": 31,
+            "mag": 26,
+            "skl": 30,
+            "spd": 30,
+            "lck": 32,
+            "def": 32,
+            "res": 32
+        },
+        "weapons": [
+            {
+                "type": "sword",
+                "value": "A"
+            },
+            {
+                "type": "lance",
+                "value": "A"
+            }
+        ],
+        "base_stats": {
+            "hp": 19,
+            "str": 8,
+            "mag": 1,
+            "skl": 7,
+            "spd": 7,
+            "lck": 4,
+            "def": 7,
+            "res": 6,
+            "move": 8
+        },
+        "bonus": null
+    },
+    {
+        "id": "great_knight",
+        "name": "Great Knight",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 20,
+            "str": 20,
+            "mag": 0,
+            "skl": 10,
+            "spd": 5,
+            "lck": 5,
+            "def": 20,
+            "res": 0
+        },
+        "max_stats": {
+            "hp": 65,
+            "str": 35,
+            "mag": 25,
+            "skl": 29,
+            "spd": 27,
+            "lck": 28,
+            "def": 37,
+            "res": 28
+        },
+        "weapons": [
+            {
+                "type": "sword",
+                "value": "B"
+            },
+            {
+                "type": "lance",
+                "value": "A"
+            },
+            {
+                "type": "axe",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 21,
+            "str": 10,
+            "mag": 0,
+            "skl": 6,
+            "spd": 6,
+            "lck": 3,
+            "def": 10,
+            "res": 2,
+            "move": 7
+        },
+        "bonus": null
+    },
+    {
+        "id": "knight",
+        "name": "Knight",
+        "tier": 1,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 20,
+            "str": 20,
+            "mag": 0,
+            "skl": 15,
+            "spd": 5,
+            "lck": 10,
+            "def": 20,
+            "res": 0
+        },
+        "max_stats": {
+            "hp": 45,
+            "str": 24,
+            "mag": 15,
+            "skl": 22,
+            "spd": 17,
+            "lck": 22,
+            "def": 26,
+            "res": 18
+        },
+        "weapons": [
+            {
+                "type": "lance",
+                "value": "A"
+            }
+        ],
+        "base_stats": {
+            "hp": 19,
+            "str": 8,
+            "mag": 0,
+            "skl": 5,
+            "spd": 3,
+            "lck": 3,
+            "def": 8,
+            "res": 1,
+            "move": 4
+        },
+        "bonus": null
+    },
+    {
+        "id": "general",
+        "name": "General",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 25,
+            "str": 20,
+            "mag": 0,
+            "skl": 15,
+            "spd": 0,
+            "lck": 10,
+            "def": 20,
+            "res": 5
+        },
+        "max_stats": {
+            "hp": 70,
+            "str": 38,
+            "mag": 25,
+            "skl": 32,
+            "spd": 25,
+            "lck": 32,
+            "def": 40,
+            "res": 30
+        },
+        "weapons": [
+            {
+                "type": "lance",
+                "value": "A"
+            },
+            {
+                "type": "axe",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 22,
+            "str": 11,
+            "mag": 0,
+            "skl": 7,
+            "spd": 3,
+            "lck": 4,
+            "def": 12,
+            "res": 3,
+            "move": 5
+        },
+        "bonus": null
+    },
+    {
+        "id": "fighter",
+        "name": "Fighter",
+        "tier": 1,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 20,
+            "str": 20,
+            "mag": 0,
+            "skl": 15,
+            "spd": 15,
+            "lck": 5,
+            "def": 5,
+            "res": 0
+        },
+        "max_stats": {
+            "hp": 45,
+            "str": 25,
+            "mag": 15,
+            "skl": 23,
+            "spd": 22,
+            "lck": 21,
+            "def": 19,
+            "res": 18
+        },
+        "weapons": [
+            {
+                "type": "axe",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 19,
+            "str": 7,
+            "mag": 0,
+            "skl": 6,
+            "spd": 6,
+            "lck": 2,
+            "def": 4,
+            "res": 1,
+            "move": 5
+        },
+        "bonus": null
+    },
+    {
+        "id": "berserker",
+        "name": "Berserker",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 30,
+            "str": 25,
+            "mag": 0,
+            "skl": 15,
+            "spd": 15,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "max_stats": {
+            "hp": 70,
+            "str": 40,
+            "mag": 25,
+            "skl": 32,
+            "spd": 33,
+            "lck": 25,
+            "def": 27,
+            "res": 25
+        },
+        "weapons": [
+            {
+                "type": "axe",
+                "value": "S"
+            }
+        ],
+        "base_stats": {
+            "hp": 24,
+            "str": 12,
+            "mag": 0,
+            "skl": 8,
+            "spd": 9,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "move": 6
+        },
+        "bonus": [
+            {
+                "type": "Crt",
+                "value": 20
+            },
+            {
+                "type": "Dodge",
+                "value": -5
+            }
+        ]
+    },
+    {
+        "id": "mercenary",
+        "name": "Mercenary",
+        "tier": 1,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 10,
+            "str": 15,
+            "mag": 0,
+            "skl": 20,
+            "spd": 15,
+            "lck": 5,
+            "def": 10,
+            "res": 5
+        },
+        "max_stats": {
+            "hp": 40,
+            "str": 22,
+            "mag": 15,
+            "skl": 24,
+            "spd": 22,
+            "lck": 20,
+            "def": 21,
+            "res": 19
+        },
+        "weapons": [
+            {
+                "type": "sword",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 17,
+            "str": 5,
+            "mag": 0,
+            "skl": 7,
+            "spd": 6,
+            "lck": 2,
+            "def": 5,
+            "res": 2,
+            "move": 5
+        },
+        "bonus": null
+    },
+    {
+        "id": "hero",
+        "name": "Hero",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 20,
+            "str": 15,
+            "mag": 0,
+            "skl": 20,
+            "spd": 15,
+            "lck": 5,
+            "def": 10,
+            "res": 0
+        },
+        "max_stats": {
+            "hp": 60,
+            "str": 32,
+            "mag": 25,
+            "skl": 35,
+            "spd": 32,
+            "lck": 31,
+            "def": 30,
+            "res": 27
+        },
+        "weapons": [
+            {
+                "type": "sword",
+                "value": "A"
+            },
+            {
+                "type": "axe",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 20,
+            "str": 8,
+            "mag": 0,
+            "skl": 10,
+            "spd": 8,
+            "lck": 3,
+            "def": 7,
+            "res": 2,
+            "move": 6
+        },
+        "bonus": null
+    },
+    {
+        "id": "bow_knight",
+        "name": "Bow Knight",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 10,
+            "str": 10,
+            "mag": 0,
+            "skl": 15,
+            "spd": 15,
+            "lck": 10,
+            "def": 0,
+            "res": 10
+        },
+        "max_stats": {
+            "hp": 55,
+            "str": 29,
+            "mag": 25,
+            "skl": 32,
+            "spd": 33,
+            "lck": 30,
+            "def": 27,
+            "res": 32
+        },
+        "weapons": [
+            {
+                "type": "sword",
+                "value": "B"
+            },
+            {
+                "type": "bow",
+                "value": "A"
+            }
+        ],
+        "base_stats": {
+            "hp": 18,
+            "str": 6,
+            "mag": 0,
+            "skl": 8,
+            "spd": 9,
+            "lck": 3,
+            "def": 5,
+            "res": 6,
+            "move": 8
+        },
+        "bonus": null
+    },
+    {
+        "id": "outlaw",
+        "name": "Outlaw",
+        "tier": 1,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 0,
+            "str": 10,
+            "mag": 5,
+            "skl": 10,
+            "spd": 20,
+            "lck": 0,
+            "def": 0,
+            "res": 20
+        },
+        "max_stats": {
+            "hp": 35,
+            "str": 19,
+            "mag": 18,
+            "skl": 20,
+            "spd": 24,
+            "lck": 18,
+            "def": 17,
+            "res": 22
+        },
+        "weapons": [
+            {
+                "type": "bow",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 16,
+            "str": 3,
+            "mag": 1,
+            "skl": 4,
+            "spd": 8,
+            "lck": 1,
+            "def": 2,
+            "res": 4,
+            "move": 5
+        },
+        "bonus": null
+    },
+    {
+        "id": "adventurer",
+        "name": "Adventurer",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 0,
+            "str": 5,
+            "mag": 15,
+            "skl": 5,
+            "spd": 20,
+            "lck": 0,
+            "def": 0,
+            "res": 20
+        },
+        "max_stats": {
+            "hp": 50,
+            "str": 27,
+            "mag": 31,
+            "skl": 27,
+            "spd": 34,
+            "lck": 27,
+            "def": 25,
+            "res": 34
+        },
+        "weapons": [
+            {
+                "type": "bow",
+                "value": "A"
+            },
+            {
+                "type": "staff",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 17,
+            "str": 4,
+            "mag": 6,
+            "skl": 6,
+            "spd": 10,
+            "lck": 2,
+            "def": 3,
+            "res": 8,
+            "move": 6
+        },
+        "bonus": null
+    },
+    {
+        "id": "wyvern_rider",
+        "name": "Wyvern Rider",
+        "tier": 1,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 10,
+            "str": 15,
+            "mag": 5,
+            "skl": 10,
+            "spd": 10,
+            "lck": 5,
+            "def": 20,
+            "res": 0
+        },
+        "max_stats": {
+            "hp": 40,
+            "str": 22,
+            "mag": 17,
+            "skl": 21,
+            "spd": 20,
+            "lck": 19,
+            "def": 24,
+            "res": 15
+        },
+        "weapons": [
+            {
+                "type": "axe",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 17,
+            "str": 6,
+            "mag": 0,
+            "skl": 5,
+            "spd": 4,
+            "lck": 2,
+            "def": 7,
+            "res": 0,
+            "move": 7
+        },
+        "bonus": null
+    },
+    {
+        "id": "wyvern_lord",
+        "name": "Wyvern Lord",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 10,
+            "str": 15,
+            "mag": 0,
+            "skl": 15,
+            "spd": 10,
+            "lck": 5,
+            "def": 20,
+            "res": 0
+        },
+        "max_stats": {
+            "hp": 60,
+            "str": 33,
+            "mag": 25,
+            "skl": 33,
+            "spd": 29,
+            "lck": 28,
+            "def": 35,
+            "res": 26
+        },
+        "weapons": [
+            {
+                "type": "lance",
+                "value": "B"
+            },
+            {
+                "type": "axe",
+                "value": "A"
+            }
+        ],
+        "base_stats": {
+            "hp": 19,
+            "str": 8,
+            "mag": 0,
+            "skl": 9,
+            "spd": 6,
+            "lck": 3,
+            "def": 10,
+            "res": 1,
+            "move": 8
+        },
+        "bonus": null
+    },
+    {
+        "id": "malig_knight",
+        "name": "Malig Knight",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 0,
+            "str": 15,
+            "mag": 15,
+            "skl": 10,
+            "spd": 5,
+            "lck": 0,
+            "def": 10,
+            "res": 15
+        },
+        "max_stats": {
+            "hp": 55,
+            "str": 31,
+            "mag": 30,
+            "skl": 28,
+            "spd": 27,
+            "lck": 25,
+            "def": 31,
+            "res": 31
+        },
+        "weapons": [
+            {
+                "type": "axe",
+                "value": "A"
+            },
+            {
+                "type": "tome",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 18,
+            "str": 7,
+            "mag": 6,
+            "skl": 6,
+            "spd": 5,
+            "lck": 0,
+            "def": 8,
+            "res": 6,
+            "move": 8
+        },
+        "bonus": null
+    },
+    {
+        "id": "dark_mage",
+        "name": "Dark Mage",
+        "tier": 1,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 0,
+            "str": 10,
+            "mag": 20,
+            "skl": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 5,
+            "res": 10
+        },
+        "max_stats": {
+            "hp": 35,
+            "str": 19,
+            "mag": 24,
+            "skl": 16,
+            "spd": 19,
+            "lck": 18,
+            "def": 19,
+            "res": 22
+        },
+        "weapons": [
+            {
+                "type": "tome",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 16,
+            "str": 0,
+            "mag": 6,
+            "skl": 3,
+            "spd": 3,
+            "lck": 1,
+            "def": 3,
+            "res": 5,
+            "move": 5
+        },
+        "bonus": null
+    },
+    {
+        "id": "sorcerer",
+        "name": "Sorcerer",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 0,
+            "str": 0,
+            "mag": 25,
+            "skl": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 5,
+            "res": 15
+        },
+        "max_stats": {
+            "hp": 50,
+            "str": 25,
+            "mag": 35,
+            "skl": 26,
+            "spd": 29,
+            "lck": 26,
+            "def": 29,
+            "res": 33
+        },
+        "weapons": [
+            {
+                "type": "tome",
+                "value": "S"
+            }
+        ],
+        "base_stats": {
+            "hp": 17,
+            "str": 0,
+            "mag": 9,
+            "skl": 4,
+            "spd": 6,
+            "lck": 1,
+            "def": 5,
+            "res": 8,
+            "move": 6
+        },
+        "bonus": [
+            {
+                "type": "Hit",
+                "value": 5
+            },
+            {
+                "type": "Crt",
+                "value": 10
+            },
+            {
+                "type": "Dodge",
+                "value": 5
+            }
+        ]
+    },
+    {
+        "id": "dark_knight",
+        "name": "Dark Knight",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 15,
+            "str": 20,
+            "mag": 10,
+            "skl": 5,
+            "spd": 5,
+            "lck": 5,
+            "def": 15,
+            "res": 5
+        },
+        "max_stats": {
+            "hp": 55,
+            "str": 32,
+            "mag": 31,
+            "skl": 28,
+            "spd": 27,
+            "lck": 31,
+            "def": 34,
+            "res": 30
+        },
+        "weapons": [
+            {
+                "type": "sword",
+                "value": "B"
+            },
+            {
+                "type": "tome",
+                "value": "A"
+            }
+        ],
+        "base_stats": {
+            "hp": 19,
+            "str": 8,
+            "mag": 6,
+            "skl": 6,
+            "spd": 5,
+            "lck": 3,
+            "def": 8,
+            "res": 6,
+            "move": 8
+        },
+        "bonus": null
+    },
+    {
+        "id": "troubadour",
+        "name": "Troubadour",
+        "tier": 1,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 0,
+            "str": 0,
+            "mag": 10,
+            "skl": 20,
+            "spd": 10,
+            "lck": 15,
+            "def": 0,
+            "res": 15
+        },
+        "max_stats": {
+            "hp": 35,
+            "str": 16,
+            "mag": 19,
+            "skl": 24,
+            "spd": 20,
+            "lck": 23,
+            "def": 16,
+            "res": 21
+        },
+        "weapons": [
+            {
+                "type": "staff",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 15,
+            "str": 0,
+            "mag": 3,
+            "skl": 7,
+            "spd": 5,
+            "lck": 4,
+            "def": 1,
+            "res": 4,
+            "move": 7
+        },
+        "bonus": [
+            {
+                "type": "Dodge",
+                "value": 10
+            }
+        ]
+    },
+    {
+        "id": "strategist",
+        "name": "Strategist",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 0,
+            "str": 0,
+            "mag": 15,
+            "skl": 5,
+            "spd": 10,
+            "lck": 20,
+            "def": 0,
+            "res": 15
+        },
+        "max_stats": {
+            "hp": 45,
+            "str": 25,
+            "mag": 33,
+            "skl": 28,
+            "spd": 31,
+            "lck": 33,
+            "def": 25,
+            "res": 32
+        },
+        "weapons": [
+            {
+                "type": "tome",
+                "value": "B"
+            },
+            {
+                "type": "staff",
+                "value": "A"
+            }
+        ],
+        "base_stats": {
+            "hp": 16,
+            "str": 0,
+            "mag": 7,
+            "skl": 6,
+            "spd": 7,
+            "lck": 5,
+            "def": 2,
+            "res": 7,
+            "move": 8
+        },
+        "bonus": null
+    },
+    {
+        "id": "maid",
+        "name": "Maid / Butler",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 0,
+            "str": 10,
+            "mag": 10,
+            "skl": 15,
+            "spd": 15,
+            "lck": 10,
+            "def": 5,
+            "res": 10
+        },
+        "max_stats": {
+            "hp": 50,
+            "str": 28,
+            "mag": 31,
+            "skl": 33,
+            "spd": 33,
+            "lck": 32,
+            "def": 29,
+            "res": 29
+        },
+        "weapons": [
+            {
+                "type": "dagger",
+                "value": "B"
+            },
+            {
+                "type": "staff",
+                "value": "S"
+            }
+        ],
+        "base_stats": {
+            "hp": 18,
+            "str": 4,
+            "mag": 5,
+            "skl": 9,
+            "spd": 8,
+            "lck": 4,
+            "def": 5,
+            "res": 4,
+            "move": 6
+        },
+        "bonus": null
+    },
+    {
+        "id": "wolfskin",
+        "name": "Wolfskin",
+        "tier": 1,
+        "prf": true,
+        "remark": "wolf",
+        "growth_rates": {
+            "hp": 20,
+            "str": 20,
+            "mag": 0,
+            "skl": 5,
+            "spd": 15,
+            "lck": 5,
+            "def": 10,
+            "res": 0
+        },
+        "max_stats": {
+            "hp": 45,
+            "str": 24,
+            "mag": 15,
+            "skl": 18,
+            "spd": 22,
+            "lck": 17,
+            "def": 21,
+            "res": 15
+        },
+        "weapons": [
+            {
+                "type": "stone_2",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 19,
+            "str": 8,
+            "mag": 0,
+            "skl": 4,
+            "spd": 6,
+            "lck": 0,
+            "def": 4,
+            "res": 0,
+            "move": 5
+        },
+        "bonus": null
+    },
+    {
+        "id": "wolfssegner",
+        "name": "Wolfssegner",
+        "tier": 2,
+        "prf": true,
+        "remark": "wolf",
+        "growth_rates": {
+            "hp": 20,
+            "str": 20,
+            "mag": 0,
+            "skl": 5,
+            "spd": 15,
+            "lck": 5,
+            "def": 10,
+            "res": 0
+        },
+        "max_stats": {
+            "hp": 65,
+            "str": 36,
+            "mag": 25,
+            "skl": 29,
+            "spd": 31,
+            "lck": 26,
+            "def": 32,
+            "res": 26
+        },
+        "weapons": [
+            {
+                "type": "stone_2",
+                "value": "S"
+            }
+        ],
+        "base_stats": {
+            "hp": 22,
+            "str": 11,
+            "mag": 0,
+            "skl": 6,
+            "spd": 7,
+            "lck": 1,
+            "def": 7,
+            "res": 1,
+            "move": 6
+        },
+        "bonus": [
+            {
+                "type": "Hit",
+                "value": 10
+            },
+            {
+                "type": "Crt",
+                "value": 5
+            },
+            {
+                "type": "Dodge",
+                "value": 10
+            }
+        ]
+    },
+    {
+        "id": "samurai",
+        "name": "Samurai",
+        "tier": 1,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 10,
+            "str": 10,
+            "mag": 0,
+            "skl": 15,
+            "spd": 20,
+            "lck": 15,
+            "def": 0,
+            "res": 10
+        },
+        "max_stats": {
+            "hp": 40,
+            "str": 20,
+            "mag": 16,
+            "skl": 23,
+            "spd": 25,
+            "lck": 24,
+            "def": 18,
+            "res": 20
+        },
+        "weapons": [
+            {
+                "type": "sword",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 17,
+            "str": 4,
+            "mag": 0,
+            "skl": 5,
+            "spd": 8,
+            "lck": 3,
+            "def": 3,
+            "res": 3,
+            "move": 5
+        },
+        "bonus": null
+    },
+    {
+        "id": "swordmaster",
+        "name": "Swordmaster",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 10,
+            "str": 10,
+            "mag": 5,
+            "skl": 15,
+            "spd": 20,
+            "lck": 15,
+            "def": 0,
+            "res": 10
+        },
+        "max_stats": {
+            "hp": 55,
+            "str": 30,
+            "mag": 28,
+            "skl": 32,
+            "spd": 35,
+            "lck": 33,
+            "def": 27,
+            "res": 31
+        },
+        "weapons": [
+            {
+                "type": "sword",
+                "value": "S"
+            }
+        ],
+        "base_stats": {
+            "hp": 18,
+            "str": 6,
+            "mag": 2,
+            "skl": 7,
+            "spd": 11,
+            "lck": 4,
+            "def": 5,
+            "res": 5,
+            "move": 6
+        },
+        "bonus": [
+            {
+                "type": "Crt",
+                "value": 10
+            },
+            {
+                "type": "Avo",
+                "value": 10
+            }
+        ]
+    },
+    {
+        "id": "master_of_arms",
+        "name": "Master of Arms",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 20,
+            "str": 15,
+            "mag": 0,
+            "skl": 10,
+            "spd": 10,
+            "lck": 10,
+            "def": 10,
+            "res": 0
+        },
+        "max_stats": {
+            "hp": 65,
+            "str": 33,
+            "mag": 25,
+            "skl": 30,
+            "spd": 30,
+            "lck": 31,
+            "def": 31,
+            "res": 28
+        },
+        "weapons": [
+            {
+                "type": "sword",
+                "value": "A"
+            },
+            {
+                "type": "lance",
+                "value": "B"
+            },
+            {
+                "type": "axe",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 20,
+            "str": 8,
+            "mag": 0,
+            "skl": 6,
+            "spd": 9,
+            "lck": 3,
+            "def": 7,
+            "res": 3,
+            "move": 6
+        },
+        "bonus": null
+    },
+    {
+        "id": "oni_savage",
+        "name": "Oni Savage",
+        "tier": 1,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 20,
+            "str": 20,
+            "mag": 10,
+            "skl": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 20,
+            "res": 0
+        },
+        "max_stats": {
+            "hp": 45,
+            "str": 24,
+            "mag": 19,
+            "skl": 16,
+            "spd": 20,
+            "lck": 17,
+            "def": 23,
+            "res": 18
+        },
+        "weapons": [
+            {
+                "type": "axe",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 18,
+            "str": 6,
+            "mag": 1,
+            "skl": 2,
+            "spd": 5,
+            "lck": 0,
+            "def": 7,
+            "res": 1,
+            "move": 5
+        },
+        "bonus": null
+    },
+    {
+        "id": "oni_chieftain",
+        "name": "Oni Chieftain",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 10,
+            "str": 20,
+            "mag": 15,
+            "skl": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 20,
+            "res": 5
+        },
+        "max_stats": {
+            "hp": 60,
+            "str": 34,
+            "mag": 28,
+            "skl": 25,
+            "spd": 30,
+            "lck": 25,
+            "def": 36,
+            "res": 31
+        },
+        "weapons": [
+            {
+                "type": "axe",
+                "value": "A"
+            },
+            {
+                "type": "tome",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 19,
+            "str": 9,
+            "mag": 5,
+            "skl": 2,
+            "spd": 7,
+            "lck": 0,
+            "def": 10,
+            "res": 5,
+            "move": 6
+        },
+        "bonus": null
+    },
+    {
+        "id": "blacksmith",
+        "name": "Blacksmith",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 20,
+            "str": 15,
+            "mag": 0,
+            "skl": 15,
+            "spd": 10,
+            "lck": 5,
+            "def": 15,
+            "res": 0
+        },
+        "max_stats": {
+            "hp": 65,
+            "str": 33,
+            "mag": 25,
+            "skl": 32,
+            "spd": 31,
+            "lck": 30,
+            "def": 32,
+            "res": 27
+        },
+        "weapons": [
+            {
+                "type": "sword",
+                "value": "B"
+            },
+            {
+                "type": "axe",
+                "value": "A"
+            }
+        ],
+        "base_stats": {
+            "hp": 21,
+            "str": 8,
+            "mag": 0,
+            "skl": 9,
+            "spd": 8,
+            "lck": 3,
+            "def": 8,
+            "res": 2,
+            "move": 6
+        },
+        "bonus": null
+    },
+    {
+        "id": "spear_fighter",
+        "name": "Spear Fighter",
+        "tier": 1,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 15,
+            "str": 15,
+            "mag": 0,
+            "skl": 15,
+            "spd": 15,
+            "lck": 5,
+            "def": 10,
+            "res": 5
+        },
+        "max_stats": {
+            "hp": 40,
+            "str": 22,
+            "mag": 15,
+            "skl": 23,
+            "spd": 22,
+            "lck": 21,
+            "def": 22,
+            "res": 21
+        },
+        "weapons": [
+            {
+                "type": "lance",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 17,
+            "str": 6,
+            "mag": 0,
+            "skl": 6,
+            "spd": 6,
+            "lck": 2,
+            "def": 5,
+            "res": 2,
+            "move": 5
+        },
+        "bonus": null
+    },
+    {
+        "id": "spear_master",
+        "name": "Spear Master",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 15,
+            "str": 15,
+            "mag": 0,
+            "skl": 15,
+            "spd": 15,
+            "lck": 5,
+            "def": 10,
+            "res": 5
+        },
+        "max_stats": {
+            "hp": 60,
+            "str": 34,
+            "mag": 25,
+            "skl": 33,
+            "spd": 32,
+            "lck": 29,
+            "def": 30,
+            "res": 29
+        },
+        "weapons": [
+            {
+                "type": "lance",
+                "value": "S"
+            }
+        ],
+        "base_stats": {
+            "hp": 18,
+            "str": 9,
+            "mag": 0,
+            "skl": 8,
+            "spd": 8,
+            "lck": 3,
+            "def": 7,
+            "res": 3,
+            "move": 6
+        },
+        "bonus": [
+            {
+                "type": "Crt",
+                "value": 10
+            },
+            {
+                "type": "Dodge",
+                "value": 10
+            }
+        ]
+    },
+    {
+        "id": "basara",
+        "name": "Basara",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 20,
+            "str": 10,
+            "mag": 10,
+            "skl": 10,
+            "spd": 10,
+            "lck": 15,
+            "def": 5,
+            "res": 10
+        },
+        "max_stats": {
+            "hp": 65,
+            "str": 31,
+            "mag": 30,
+            "skl": 30,
+            "spd": 31,
+            "lck": 35,
+            "def": 30,
+            "res": 32
+        },
+        "weapons": [
+            {
+                "type": "lance",
+                "value": "A"
+            },
+            {
+                "type": "tome",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 20,
+            "str": 7,
+            "mag": 5,
+            "skl": 7,
+            "spd": 7,
+            "lck": 5,
+            "def": 7,
+            "res": 6,
+            "move": 6
+        },
+        "bonus": null
+    },
+    {
+        "id": "diviner",
+        "name": "Diviner",
+        "tier": 1,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 0,
+            "str": 5,
+            "mag": 15,
+            "skl": 10,
+            "spd": 15,
+            "lck": 5,
+            "def": 0,
+            "res": 10
+        },
+        "max_stats": {
+            "hp": 35,
+            "str": 17,
+            "mag": 22,
+            "skl": 20,
+            "spd": 23,
+            "lck": 19,
+            "def": 16,
+            "res": 20
+        },
+        "weapons": [
+            {
+                "type": "tome",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 15,
+            "str": 0,
+            "mag": 4,
+            "skl": 5,
+            "spd": 6,
+            "lck": 1,
+            "def": 1,
+            "res": 3,
+            "move": 5
+        },
+        "bonus": null
+    },
+    {
+        "id": "onmyoji",
+        "name": "Onmyoji",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 0,
+            "str": 0,
+            "mag": 20,
+            "skl": 10,
+            "spd": 15,
+            "lck": 0,
+            "def": 0,
+            "res": 15
+        },
+        "max_stats": {
+            "hp": 45,
+            "str": 25,
+            "mag": 33,
+            "skl": 31,
+            "spd": 32,
+            "lck": 27,
+            "def": 25,
+            "res": 31
+        },
+        "weapons": [
+            {
+                "type": "tome",
+                "value": "A"
+            },
+            {
+                "type": "staff",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 16,
+            "str": 0,
+            "mag": 7,
+            "skl": 6,
+            "spd": 7,
+            "lck": 2,
+            "def": 3,
+            "res": 6,
+            "move": 6
+        },
+        "bonus": null
+    },
+    {
+        "id": "monk",
+        "name": "Monk / Shrine Maiden",
+        "tier": 1,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 0,
+            "str": 5,
+            "mag": 10,
+            "skl": 10,
+            "spd": 15,
+            "lck": 15,
+            "def": 0,
+            "res": 20
+        },
+        "max_stats": {
+            "hp": 35,
+            "str": 18,
+            "mag": 21,
+            "skl": 20,
+            "spd": 22,
+            "lck": 23,
+            "def": 17,
+            "res": 24
+        },
+        "weapons": [
+            {
+                "type": "staff",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 16,
+            "str": 0,
+            "mag": 3,
+            "skl": 5,
+            "spd": 5,
+            "lck": 4,
+            "def": 2,
+            "res": 5,
+            "move": 5
+        },
+        "bonus": [
+            {
+                "type": "Dodge",
+                "value": 10
+            }
+        ]
+    },
+    {
+        "id": "great_master",
+        "name": "Great Master",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 10,
+            "str": 15,
+            "mag": 5,
+            "skl": 5,
+            "spd": 15,
+            "lck": 15,
+            "def": 10,
+            "res": 10
+        },
+        "max_stats": {
+            "hp": 55,
+            "str": 32,
+            "mag": 30,
+            "skl": 31,
+            "spd": 33,
+            "lck": 32,
+            "def": 28,
+            "res": 32
+        },
+        "weapons": [
+            {
+                "type": "lance",
+                "value": "B"
+            },
+            {
+                "type": "staff",
+                "value": "A"
+            }
+        ],
+        "base_stats": {
+            "hp": 19,
+            "str": 8,
+            "mag": 6,
+            "skl": 6,
+            "spd": 8,
+            "lck": 5,
+            "def": 6,
+            "res": 7,
+            "move": 6
+        },
+        "bonus": null
+    },
+    {
+        "id": "priestess",
+        "name": "Priestess",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 10,
+            "str": 10,
+            "mag": 10,
+            "skl": 5,
+            "spd": 15,
+            "lck": 15,
+            "def": 0,
+            "res": 20
+        },
+        "max_stats": {
+            "hp": 50,
+            "str": 29,
+            "mag": 32,
+            "skl": 30,
+            "spd": 33,
+            "lck": 34,
+            "def": 26,
+            "res": 34
+        },
+        "weapons": [
+            {
+                "type": "bow",
+                "value": "B"
+            },
+            {
+                "type": "staff",
+                "value": "A"
+            }
+        ],
+        "base_stats": {
+            "hp": 19,
+            "str": 6,
+            "mag": 7,
+            "skl": 6,
+            "spd": 9,
+            "lck": 5,
+            "def": 5,
+            "res": 8,
+            "move": 6
+        },
+        "bonus": null
+    },
+    {
+        "id": "sky_knight",
+        "name": "Sky Knight",
+        "tier": 1,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 0,
+            "str": 10,
+            "mag": 0,
+            "skl": 10,
+            "spd": 15,
+            "lck": 20,
+            "def": 0,
+            "res": 20
+        },
+        "max_stats": {
+            "hp": 35,
+            "str": 19,
+            "mag": 16,
+            "skl": 21,
+            "spd": 23,
+            "lck": 25,
+            "def": 18,
+            "res": 25
+        },
+        "weapons": [
+            {
+                "type": "lance",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 16,
+            "str": 3,
+            "mag": 0,
+            "skl": 5,
+            "spd": 7,
+            "lck": 4,
+            "def": 2,
+            "res": 6,
+            "move": 7
+        },
+        "bonus": null
+    },
+    {
+        "id": "falcon_knight",
+        "name": "Falcon Knight",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 0,
+            "str": 10,
+            "mag": 10,
+            "skl": 10,
+            "spd": 15,
+            "lck": 20,
+            "def": 0,
+            "res": 20
+        },
+        "max_stats": {
+            "hp": 55,
+            "str": 28,
+            "mag": 27,
+            "skl": 30,
+            "spd": 34,
+            "lck": 35,
+            "def": 27,
+            "res": 35
+        },
+        "weapons": [
+            {
+                "type": "lance",
+                "value": "A"
+            },
+            {
+                "type": "staff",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 18,
+            "str": 5,
+            "mag": 4,
+            "skl": 6,
+            "spd": 10,
+            "lck": 5,
+            "def": 5,
+            "res": 9,
+            "move": 8
+        },
+        "bonus": null
+    },
+    {
+        "id": "kinshi_knight",
+        "name": "Kinshi Knight",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 0,
+            "str": 5,
+            "mag": 0,
+            "skl": 15,
+            "spd": 15,
+            "lck": 15,
+            "def": 0,
+            "res": 15
+        },
+        "max_stats": {
+            "hp": 50,
+            "str": 27,
+            "mag": 26,
+            "skl": 33,
+            "spd": 31,
+            "lck": 34,
+            "def": 25,
+            "res": 31
+        },
+        "weapons": [
+            {
+                "type": "lance",
+                "value": "B"
+            },
+            {
+                "type": "bow",
+                "value": "A"
+            }
+        ],
+        "base_stats": {
+            "hp": 17,
+            "str": 4,
+            "mag": 1,
+            "skl": 9,
+            "spd": 8,
+            "lck": 5,
+            "def": 4,
+            "res": 7,
+            "move": 8
+        },
+        "bonus": null
+    },
+    {
+        "id": "archer",
+        "name": "Archer",
+        "tier": 1,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 10,
+            "str": 15,
+            "mag": 0,
+            "skl": 15,
+            "spd": 15,
+            "lck": 5,
+            "def": 10,
+            "res": 0
+        },
+        "max_stats": {
+            "hp": 40,
+            "str": 21,
+            "mag": 15,
+            "skl": 23,
+            "spd": 21,
+            "lck": 20,
+            "def": 20,
+            "res": 17
+        },
+        "weapons": [
+            {
+                "type": "bow",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 17,
+            "str": 5,
+            "mag": 0,
+            "skl": 7,
+            "spd": 5,
+            "lck": 2,
+            "def": 4,
+            "res": 1,
+            "move": 5
+        },
+        "bonus": null
+    },
+    {
+        "id": "sniper",
+        "name": "Sniper",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 10,
+            "str": 15,
+            "mag": 0,
+            "skl": 20,
+            "spd": 15,
+            "lck": 5,
+            "def": 10,
+            "res": 0
+        },
+        "max_stats": {
+            "hp": 55,
+            "str": 31,
+            "mag": 25,
+            "skl": 35,
+            "spd": 33,
+            "lck": 30,
+            "def": 31,
+            "res": 28
+        },
+        "weapons": [
+            {
+                "type": "bow",
+                "value": "S"
+            }
+        ],
+        "base_stats": {
+            "hp": 19,
+            "str": 7,
+            "mag": 0,
+            "skl": 10,
+            "spd": 9,
+            "lck": 3,
+            "def": 6,
+            "res": 2,
+            "move": 6
+        },
+        "bonus": [
+            {
+                "type": "Hit",
+                "value": 10
+            },
+            {
+                "type": "Crt",
+                "value": 10
+            }
+        ]
+    },
+    {
+        "id": "ninja",
+        "name": "Ninja",
+        "tier": 1,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 5,
+            "str": 5,
+            "mag": 0,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 5,
+            "res": 15
+        },
+        "max_stats": {
+            "hp": 35,
+            "str": 17,
+            "mag": 15,
+            "skl": 25,
+            "spd": 25,
+            "lck": 18,
+            "def": 19,
+            "res": 20
+        },
+        "weapons": [
+            {
+                "type": "dagger",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 16,
+            "str": 3,
+            "mag": 0,
+            "skl": 8,
+            "spd": 8,
+            "lck": 1,
+            "def": 3,
+            "res": 3,
+            "move": 5
+        },
+        "bonus": null
+    },
+    {
+        "id": "master_ninja",
+        "name": "Master Ninja",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 5,
+            "str": 5,
+            "mag": 0,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 5,
+            "res": 20
+        },
+        "max_stats": {
+            "hp": 55,
+            "str": 27,
+            "mag": 25,
+            "skl": 35,
+            "spd": 35,
+            "lck": 28,
+            "def": 26,
+            "res": 34
+        },
+        "weapons": [
+            {
+                "type": "sword",
+                "value": "B"
+            },
+            {
+                "type": "dagger",
+                "value": "S"
+            }
+        ],
+        "base_stats": {
+            "hp": 17,
+            "str": 5,
+            "mag": 0,
+            "skl": 10,
+            "spd": 11,
+            "lck": 2,
+            "def": 4,
+            "res": 8,
+            "move": 6
+        },
+        "bonus": [
+            {
+                "type": "Hit",
+                "value": 5
+            },
+            {
+                "type": "Crt",
+                "value": 5
+            },
+            {
+                "type": "Avo",
+                "value": 5
+            },
+            {
+                "type": "Dodge",
+                "value": 5
+            }
+        ]
+    },
+    {
+        "id": "mechanist",
+        "name": "Mechanist",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 10,
+            "str": 10,
+            "mag": 0,
+            "skl": 15,
+            "spd": 10,
+            "lck": 5,
+            "def": 5,
+            "res": 15
+        },
+        "max_stats": {
+            "hp": 60,
+            "str": 30,
+            "mag": 25,
+            "skl": 33,
+            "spd": 30,
+            "lck": 30,
+            "def": 31,
+            "res": 31
+        },
+        "weapons": [
+            {
+                "type": "dagger",
+                "value": "A"
+            },
+            {
+                "type": "bow",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 18,
+            "str": 7,
+            "mag": 0,
+            "skl": 9,
+            "spd": 7,
+            "lck": 2,
+            "def": 6,
+            "res": 6,
+            "move": 7
+        },
+        "bonus": null
+    },
+    {
+        "id": "apothecary",
+        "name": "Apothecary",
+        "tier": 1,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 20,
+            "str": 20,
+            "mag": 0,
+            "skl": 10,
+            "spd": 10,
+            "lck": 5,
+            "def": 10,
+            "res": 5
+        },
+        "max_stats": {
+            "hp": 45,
+            "str": 24,
+            "mag": 15,
+            "skl": 19,
+            "spd": 19,
+            "lck": 21,
+            "def": 23,
+            "res": 20
+        },
+        "weapons": [
+            {
+                "type": "bow",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 18,
+            "str": 6,
+            "mag": 0,
+            "skl": 4,
+            "spd": 4,
+            "lck": 2,
+            "def": 6,
+            "res": 2,
+            "move": 5
+        },
+        "bonus": null
+    },
+    {
+        "id": "merchant",
+        "name": "Merchant",
+        "tier": 2,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 20,
+            "str": 20,
+            "mag": 0,
+            "skl": 10,
+            "spd": 5,
+            "lck": 15,
+            "def": 10,
+            "res": 5
+        },
+        "max_stats": {
+            "hp": 65,
+            "str": 33,
+            "mag": 25,
+            "skl": 29,
+            "spd": 28,
+            "lck": 32,
+            "def": 33,
+            "res": 30
+        },
+        "weapons": [
+            {
+                "type": "lance",
+                "value": "B"
+            },
+            {
+                "type": "bow",
+                "value": "A"
+            }
+        ],
+        "base_stats": {
+            "hp": 20,
+            "str": 8,
+            "mag": 0,
+            "skl": 6,
+            "spd": 5,
+            "lck": 4,
+            "def": 8,
+            "res": 5,
+            "move": 6
+        },
+        "bonus": null
+    },
+    {
+        "id": "kitsune",
+        "name": "Kitsune",
+        "tier": 1,
+        "prf": true,
+        "remark": "fox",
+        "growth_rates": {
+            "hp": 10,
+            "str": 10,
+            "mag": 0,
+            "skl": 15,
+            "spd": 20,
+            "lck": 10,
+            "def": 0,
+            "res": 20
+        },
+        "max_stats": {
+            "hp": 40,
+            "str": 20,
+            "mag": 18,
+            "skl": 23,
+            "spd": 24,
+            "lck": 24,
+            "def": 18,
+            "res": 23
+        },
+        "weapons": [
+            {
+                "type": "stone_2",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 16,
+            "str": 5,
+            "mag": 1,
+            "skl": 6,
+            "spd": 8,
+            "lck": 4,
+            "def": 1,
+            "res": 4,
+            "move": 5
+        },
+        "bonus": null
+    },
+    {
+        "id": "nine_tails",
+        "name": "Nine-Tails",
+        "tier": 2,
+        "prf": true,
+        "remark": "fox",
+        "growth_rates": {
+            "hp": 10,
+            "str": 10,
+            "mag": 0,
+            "skl": 15,
+            "spd": 20,
+            "lck": 10,
+            "def": 0,
+            "res": 20
+        },
+        "max_stats": {
+            "hp": 55,
+            "str": 29,
+            "mag": 29,
+            "skl": 33,
+            "spd": 34,
+            "lck": 33,
+            "def": 27,
+            "res": 34
+        },
+        "weapons": [
+            {
+                "type": "stone_2",
+                "value": "S"
+            }
+        ],
+        "base_stats": {
+            "hp": 19,
+            "str": 6,
+            "mag": 2,
+            "skl": 9,
+            "spd": 10,
+            "lck": 5,
+            "def": 2,
+            "res": 8,
+            "move": 6
+        },
+        "bonus": [
+            {
+                "type": "Crt",
+                "value": 5
+            },
+            {
+                "type": "Avo",
+                "value": 10
+            },
+            {
+                "type": "Dodge",
+                "value": 10
+            }
+        ]
+    },
+    {
+        "id": "songstress",
+        "name": "Songstress",
+        "tier": 3,
+        "prf": true,
+        "remark": "azura",
+        "growth_rates": {
+            "hp": 0,
+            "str": 10,
+            "mag": 0,
+            "skl": 20,
+            "spd": 20,
+            "lck": 20,
+            "def": 0,
+            "res": 0
+        },
+        "max_stats": {
+            "hp": 45,
+            "str": 28,
+            "mag": 27,
+            "skl": 31,
+            "spd": 31,
+            "lck": 35,
+            "def": 27,
+            "res": 28
+        },
+        "weapons": [
+            {
+                "type": "lance",
+                "value": "C"
+            }
+        ],
+        "base_stats": {
+            "hp": 16,
+            "str": 3,
+            "mag": 0,
+            "skl": 6,
+            "spd": 5,
+            "lck": 3,
+            "def": 2,
+            "res": 3,
+            "move": 5
+        },
+        "bonus": null
+    },
+    {
+        "id": "villager",
+        "name": "Villager",
+        "tier": 1,
+        "prf": true,
+        "remark": "mozu",
+        "growth_rates": {
+            "hp": 10,
+            "str": 10,
+            "mag": 0,
+            "skl": 10,
+            "spd": 10,
+            "lck": 20,
+            "def": 10,
+            "res": 0
+        },
+        "max_stats": {
+            "hp": 35,
+            "str": 19,
+            "mag": 15,
+            "skl": 19,
+            "spd": 19,
+            "lck": 22,
+            "def": 18,
+            "res": 15
+        },
+        "weapons": [
+            {
+                "type": "lance",
+                "value": "C"
+            }
+        ],
+        "base_stats": {
+            "hp": 17,
+            "str": 5,
+            "mag": 0,
+            "skl": 4,
+            "spd": 5,
+            "lck": 3,
+            "def": 4,
+            "res": 0,
+            "move": 5
+        },
+        "bonus": null
+    },
+    {
+        "id": "dread_fighter",
+        "name": "Dread Fighter",
+        "tier": 3,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 15,
+            "str": 15,
+            "mag": 5,
+            "skl": 5,
+            "spd": 15,
+            "lck": 0,
+            "def": 5,
+            "res": 20
+        },
+        "max_stats": {
+            "hp": 55,
+            "str": 32,
+            "mag": 28,
+            "skl": 29,
+            "spd": 31,
+            "lck": 26,
+            "def": 29,
+            "res": 34
+        },
+        "weapons": [
+            {
+                "type": "sword",
+                "value": "A"
+            },
+            {
+                "type": "axe",
+                "value": "B"
+            },
+            {
+                "type": "dagger",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 19,
+            "str": 8,
+            "mag": 3,
+            "skl": 6,
+            "spd": 8,
+            "lck": 1,
+            "def": 6,
+            "res": 9,
+            "move": 6
+        },
+        "bonus": null
+    },
+    {
+        "id": "dark_falcon",
+        "name": "Dark Falcon",
+        "tier": 3,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 0,
+            "str": 10,
+            "mag": 15,
+            "skl": 5,
+            "spd": 15,
+            "lck": 15,
+            "def": 0,
+            "res": 20
+        },
+        "max_stats": {
+            "hp": 45,
+            "str": 27,
+            "mag": 32,
+            "skl": 28,
+            "spd": 33,
+            "lck": 32,
+            "def": 26,
+            "res": 34
+        },
+        "weapons": [
+            {
+                "type": "lance",
+                "value": "B"
+            },
+            {
+                "type": "tome",
+                "value": "A"
+            }
+        ],
+        "base_stats": {
+            "hp": 17,
+            "str": 4,
+            "mag": 7,
+            "skl": 5,
+            "spd": 9,
+            "lck": 4,
+            "def": 3,
+            "res": 9,
+            "move": 8
+        },
+        "bonus": null
+    },
+    {
+        "id": "ballistician",
+        "name": "Ballistician",
+        "tier": 3,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 5,
+            "str": 25,
+            "mag": 0,
+            "skl": 15,
+            "spd": 0,
+            "lck": 10,
+            "def": 5,
+            "res": 5
+        },
+        "max_stats": {
+            "hp": 50,
+            "str": 39,
+            "mag": 25,
+            "skl": 31,
+            "spd": 25,
+            "lck": 32,
+            "def": 27,
+            "res": 26
+        },
+        "weapons": [
+            {
+                "type": "bow",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 18,
+            "str": 10,
+            "mag": 0,
+            "skl": 7,
+            "spd": 2,
+            "lck": 4,
+            "def": 3,
+            "res": 1,
+            "move": 4
+        },
+        "bonus": null
+    },
+    {
+        "id": "witch",
+        "name": "Witch",
+        "tier": 3,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 5,
+            "str": 0,
+            "mag": 25,
+            "skl": 5,
+            "spd": 20,
+            "lck": 5,
+            "def": 0,
+            "res": 10
+        },
+        "max_stats": {
+            "hp": 50,
+            "str": 25,
+            "mag": 36,
+            "skl": 27,
+            "spd": 34,
+            "lck": 28,
+            "def": 26,
+            "res": 29
+        },
+        "weapons": [
+            {
+                "type": "tome",
+                "value": "S"
+            }
+        ],
+        "base_stats": {
+            "hp": 17,
+            "str": 0,
+            "mag": 10,
+            "skl": 5,
+            "spd": 9,
+            "lck": 3,
+            "def": 4,
+            "res": 5,
+            "move": 6
+        },
+        "bonus": [
+            {
+                "type": "Crt",
+                "value": 10
+            },
+            {
+                "type": "Avo",
+                "value": 10
+            }
+        ]
+    },
+    {
+        "id": "lodestar",
+        "name": "Lodestar",
+        "tier": 3,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 15,
+            "str": 10,
+            "mag": 0,
+            "skl": 20,
+            "spd": 10,
+            "lck": 25,
+            "def": 5,
+            "res": 5
+        },
+        "max_stats": {
+            "hp": 60,
+            "str": 29,
+            "mag": 26,
+            "skl": 35,
+            "spd": 33,
+            "lck": 40,
+            "def": 30,
+            "res": 29
+        },
+        "weapons": [
+            {
+                "type": "sword",
+                "value": "S"
+            }
+        ],
+        "base_stats": {
+            "hp": 19,
+            "str": 7,
+            "mag": 0,
+            "skl": 10,
+            "spd": 9,
+            "lck": 7,
+            "def": 7,
+            "res": 2,
+            "move": 6
+        },
+        "bonus": [
+            {
+                "type": "Hit",
+                "value": 10
+            },
+            {
+                "type": "Crt",
+                "value": 5
+            },
+            {
+                "type": "Avo",
+                "value": 10
+            }
+        ]
+    },
+    {
+        "id": "vanguard",
+        "name": "Vanguard",
+        "tier": 3,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 20,
+            "str": 20,
+            "mag": 0,
+            "skl": 5,
+            "spd": 5,
+            "lck": 10,
+            "def": 15,
+            "res": 0
+        },
+        "max_stats": {
+            "hp": 65,
+            "str": 36,
+            "mag": 25,
+            "skl": 29,
+            "spd": 30,
+            "lck": 30,
+            "def": 32,
+            "res": 27
+        },
+        "weapons": [
+            {
+                "type": "sword",
+                "value": "A"
+            },
+            {
+                "type": "axe",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 21,
+            "str": 10,
+            "mag": 0,
+            "skl": 6,
+            "spd": 7,
+            "lck": 3,
+            "def": 9,
+            "res": 1,
+            "move": 6
+        },
+        "bonus": null
+    },
+    {
+        "id": "great_lord",
+        "name": "Great Lord",
+        "tier": 3,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 15,
+            "str": 15,
+            "mag": 0,
+            "skl": 10,
+            "spd": 10,
+            "lck": 15,
+            "def": 10,
+            "res": 5
+        },
+        "max_stats": {
+            "hp": 60,
+            "str": 30,
+            "mag": 25,
+            "skl": 32,
+            "spd": 34,
+            "lck": 35,
+            "def": 29,
+            "res": 31
+        },
+        "weapons": [
+            {
+                "type": "sword",
+                "value": "A"
+            },
+            {
+                "type": "lance",
+                "value": "B"
+            }
+        ],
+        "base_stats": {
+            "hp": 18,
+            "str": 8,
+            "mag": 1,
+            "skl": 8,
+            "spd": 9,
+            "lck": 5,
+            "def": 7,
+            "res": 3,
+            "move": 6
+        },
+        "bonus": null
+    },
+    {
+        "id": "grandmaster",
+        "name": "Grandmaster",
+        "tier": 3,
+        "prf": false,
+        "remark": null,
+        "growth_rates": {
+            "hp": 10,
+            "str": 15,
+            "mag": 15,
+            "skl": 15,
+            "spd": 5,
+            "lck": 0,
+            "def": 5,
+            "res": 15
+        },
+        "max_stats": {
+            "hp": 55,
+            "str": 31,
+            "mag": 33,
+            "skl": 33,
+            "spd": 29,
+            "lck": 26,
+            "def": 28,
+            "res": 33
+        },
+        "weapons": [
+            {
+                "type": "sword",
+                "value": "B"
+            },
+            {
+                "type": "tome",
+                "value": "A"
+            }
+        ],
+        "base_stats": {
+            "hp": 18,
+            "str": 7,
+            "mag": 6,
+            "skl": 8,
+            "spd": 7,
+            "lck": 2,
+            "def": 6,
+            "res": 8,
+            "move": 6
+        },
+        "bonus": null
+    }
+]
