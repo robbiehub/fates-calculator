@@ -2969,7 +2969,7 @@
         "id": "mitama",
         "name": "Mitama",
         "gen": 2,
-        "parent": "hazama",
+        "parent": "azama",
         "mu_only": false,
         "gender": 2,
         "royalty": false,
